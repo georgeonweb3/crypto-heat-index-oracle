@@ -1,0 +1,17 @@
+{
+  "name": "crypto-heat-index-oracle",
+  "version": "1.0.0",
+  "description": "Oracle to calculate crypto asset heat index using CoinGecko data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "cat sample.json | node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  },
+  "license": "MIT"
+}
