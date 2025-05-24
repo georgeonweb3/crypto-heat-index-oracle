@@ -7,3 +7,4 @@ This project calculates a "heat index" for cryptocurrencies (e.g., Ethereum) bas
 ## Setup
 ```bash
 npm install
+# SSH Test
